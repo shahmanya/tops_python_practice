@@ -1,0 +1,1 @@
+this is file w+ mode using pyhton for read/write data.
