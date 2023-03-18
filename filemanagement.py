@@ -36,5 +36,6 @@ print(file.read())
 print(file.tell())
 file.seek(0)
 file.write("\nNow this is r+ mode in new line.")
-file.close
+print("Written Successfully")
+file.close()
 print("**********************************************************************")
